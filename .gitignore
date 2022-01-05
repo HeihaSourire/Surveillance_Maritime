@@ -1,0 +1,6 @@
+output/
+*.class
+/target/
+/.settings/
+src/main/java/collect/Main.java
+/bin/
